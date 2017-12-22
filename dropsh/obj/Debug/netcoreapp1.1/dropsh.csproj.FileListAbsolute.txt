@@ -1,0 +1,9 @@
+c:\users\soran\documents\visual studio 2017\Projects\dropsh\dropsh\bin\Debug\netcoreapp1.1\dropsh.deps.json
+c:\users\soran\documents\visual studio 2017\Projects\dropsh\dropsh\bin\Debug\netcoreapp1.1\dropsh.runtimeconfig.json
+c:\users\soran\documents\visual studio 2017\Projects\dropsh\dropsh\bin\Debug\netcoreapp1.1\dropsh.runtimeconfig.dev.json
+c:\users\soran\documents\visual studio 2017\Projects\dropsh\dropsh\bin\Debug\netcoreapp1.1\dropsh.dll
+c:\users\soran\documents\visual studio 2017\Projects\dropsh\dropsh\bin\Debug\netcoreapp1.1\dropsh.pdb
+c:\users\soran\documents\visual studio 2017\Projects\dropsh\dropsh\obj\Debug\netcoreapp1.1\dropsh.csprojResolveAssemblyReference.cache
+c:\users\soran\documents\visual studio 2017\Projects\dropsh\dropsh\obj\Debug\netcoreapp1.1\dropsh.AssemblyInfo.cs
+c:\users\soran\documents\visual studio 2017\Projects\dropsh\dropsh\obj\Debug\netcoreapp1.1\dropsh.dll
+c:\users\soran\documents\visual studio 2017\Projects\dropsh\dropsh\obj\Debug\netcoreapp1.1\dropsh.pdb

@@ -1,0 +1,11 @@
+c:\users\soran\documents\visual studio 2017\Projects\drop\drop\bin\Debug\netcoreapp2.0\drop.deps.json
+c:\users\soran\documents\visual studio 2017\Projects\drop\drop\bin\Debug\netcoreapp2.0\drop.runtimeconfig.json
+c:\users\soran\documents\visual studio 2017\Projects\drop\drop\bin\Debug\netcoreapp2.0\drop.runtimeconfig.dev.json
+c:\users\soran\documents\visual studio 2017\Projects\drop\drop\bin\Debug\netcoreapp2.0\drop.dll
+c:\users\soran\documents\visual studio 2017\Projects\drop\drop\bin\Debug\netcoreapp2.0\drop.pdb
+c:\users\soran\documents\visual studio 2017\Projects\drop\drop\obj\Debug\netcoreapp2.0\drop.csprojResolveAssemblyReference.cache
+c:\users\soran\documents\visual studio 2017\Projects\drop\drop\obj\Debug\netcoreapp2.0\drop.csproj.CoreCompileInputs.cache
+c:\users\soran\documents\visual studio 2017\Projects\drop\drop\obj\Debug\netcoreapp2.0\drop.AssemblyInfoInputs.cache
+c:\users\soran\documents\visual studio 2017\Projects\drop\drop\obj\Debug\netcoreapp2.0\drop.AssemblyInfo.cs
+c:\users\soran\documents\visual studio 2017\Projects\drop\drop\obj\Debug\netcoreapp2.0\drop.dll
+c:\users\soran\documents\visual studio 2017\Projects\drop\drop\obj\Debug\netcoreapp2.0\drop.pdb

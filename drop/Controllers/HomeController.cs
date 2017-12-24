@@ -1,5 +1,6 @@
 ﻿using System.Diagnostics;
 using drop.Models;
+using drop.Models.Entity;
 using Microsoft.AspNetCore.Mvc;
 using drop.Models.ViewModels;
 
@@ -18,7 +19,7 @@ namespace drop.Controllers
         {
             var images = _imageRepository.GetAllImages();
 
-            return View(images);
+            return Ok(images);
         }
 
         public IActionResult Error()

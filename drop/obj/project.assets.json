@@ -12544,11 +12544,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "c:\\users\\soran\\documents\\visual studio 2017\\Projects\\drop\\drop\\drop.csproj",
+      "projectUniqueName": "C:\\Users\\Soran\\documents\\visual studio 2017\\Projects\\drop\\drop\\drop.csproj",
       "projectName": "drop",
-      "projectPath": "c:\\users\\soran\\documents\\visual studio 2017\\Projects\\drop\\drop\\drop.csproj",
+      "projectPath": "C:\\Users\\Soran\\documents\\visual studio 2017\\Projects\\drop\\drop\\drop.csproj",
       "packagesPath": "C:\\Users\\Soran\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\soran\\documents\\visual studio 2017\\Projects\\drop\\drop\\obj\\",
+      "outputPath": "C:\\Users\\Soran\\documents\\visual studio 2017\\Projects\\drop\\drop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -9,3 +9,14 @@ c:\users\soran\documents\visual studio 2017\Projects\drop\drop\obj\Debug\netcore
 c:\users\soran\documents\visual studio 2017\Projects\drop\drop\obj\Debug\netcoreapp2.0\drop.AssemblyInfo.cs
 c:\users\soran\documents\visual studio 2017\Projects\drop\drop\obj\Debug\netcoreapp2.0\drop.dll
 c:\users\soran\documents\visual studio 2017\Projects\drop\drop\obj\Debug\netcoreapp2.0\drop.pdb
+C:\Users\Soran\Documents\GitHub\ideal-drop\drop\bin\Debug\netcoreapp2.0\drop.deps.json
+C:\Users\Soran\Documents\GitHub\ideal-drop\drop\bin\Debug\netcoreapp2.0\drop.runtimeconfig.json
+C:\Users\Soran\Documents\GitHub\ideal-drop\drop\bin\Debug\netcoreapp2.0\drop.runtimeconfig.dev.json
+C:\Users\Soran\Documents\GitHub\ideal-drop\drop\bin\Debug\netcoreapp2.0\drop.dll
+C:\Users\Soran\Documents\GitHub\ideal-drop\drop\bin\Debug\netcoreapp2.0\drop.pdb
+C:\Users\Soran\Documents\GitHub\ideal-drop\drop\obj\Debug\netcoreapp2.0\drop.csprojResolveAssemblyReference.cache
+C:\Users\Soran\Documents\GitHub\ideal-drop\drop\obj\Debug\netcoreapp2.0\drop.csproj.CoreCompileInputs.cache
+C:\Users\Soran\Documents\GitHub\ideal-drop\drop\obj\Debug\netcoreapp2.0\drop.AssemblyInfoInputs.cache
+C:\Users\Soran\Documents\GitHub\ideal-drop\drop\obj\Debug\netcoreapp2.0\drop.AssemblyInfo.cs
+C:\Users\Soran\Documents\GitHub\ideal-drop\drop\obj\Debug\netcoreapp2.0\drop.dll
+C:\Users\Soran\Documents\GitHub\ideal-drop\drop\obj\Debug\netcoreapp2.0\drop.pdb

@@ -1,4 +1,7 @@
-﻿using drop.Models;
+﻿using AutoMapper;
+using drop.Models;
+using drop.Models.Entity;
+using drop.Models.ViewModels;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
@@ -28,6 +31,11 @@ namespace drop
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IHostingEnvironment env, ImageContextSeedData seeder)
         {
+            Mapper.Initialize(config =>
+            {
+                config.CreateMap<ImageViewModel, Image>().ReverseMap();
+            });
+
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();

@@ -1,4 +1,6 @@
-﻿using drop.Models.ViewModels;
+﻿using AutoMapper;
+using drop.Models.Entity;
+using drop.Models.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 
 namespace drop.Controllers
@@ -11,6 +13,8 @@ namespace drop.Controllers
         {
             if (ModelState.IsValid)
             {
+                var newImage = Mapper.Map<Image>(image);
+
                 return Ok(true);
             }
             return BadRequest("Bad data");

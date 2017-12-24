@@ -14,7 +14,6 @@ C:\Users\Soran\Documents\GitHub\ideal-drop\drop\bin\Debug\netcoreapp2.0\drop.run
 C:\Users\Soran\Documents\GitHub\ideal-drop\drop\bin\Debug\netcoreapp2.0\drop.runtimeconfig.dev.json
 C:\Users\Soran\Documents\GitHub\ideal-drop\drop\bin\Debug\netcoreapp2.0\drop.dll
 C:\Users\Soran\Documents\GitHub\ideal-drop\drop\bin\Debug\netcoreapp2.0\drop.pdb
-C:\Users\Soran\Documents\GitHub\ideal-drop\drop\obj\Debug\netcoreapp2.0\drop.csprojResolveAssemblyReference.cache
 C:\Users\Soran\Documents\GitHub\ideal-drop\drop\obj\Debug\netcoreapp2.0\drop.csproj.CoreCompileInputs.cache
 C:\Users\Soran\Documents\GitHub\ideal-drop\drop\obj\Debug\netcoreapp2.0\drop.AssemblyInfoInputs.cache
 C:\Users\Soran\Documents\GitHub\ideal-drop\drop\obj\Debug\netcoreapp2.0\drop.AssemblyInfo.cs

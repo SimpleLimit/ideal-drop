@@ -1,5 +1,4 @@
-﻿using System;
-using System.Linq;
+﻿using System.Linq;
 using System.Threading.Tasks;
 using drop.Models.Entity;
 
@@ -7,7 +6,7 @@ namespace drop.Models
 {
     public class ImageContextSeedData
     {
-        private ImageContext _context;
+        private readonly ImageContext _context;
 
         public ImageContextSeedData(ImageContext context)
         {

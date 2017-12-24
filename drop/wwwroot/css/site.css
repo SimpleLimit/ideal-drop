@@ -33,3 +33,13 @@
         display: none;
     }
 }
+
+img {
+    width: 250px;
+    height: 250px;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}

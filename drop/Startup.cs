@@ -54,8 +54,6 @@ namespace drop
                     name: "default",
                     template: "{controller=Home}/{action=Index}/{id?}");
             });
-
-            seeder.EnsureSeedData().Wait();
         }
     }
 }
